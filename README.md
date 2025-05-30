@@ -1,11 +1,20 @@
-# 30DaysOfPython
+# 30DaysOfPython🚀
 
-## Day 1- Introduction to Python 
+Welcome to my journey through the **#30DaysOfPython** challenge!  
+This repository contains daily practice files, mini-projects, and notes as I explore Python one day at a time.
 
-- Python is a high level programming language, known for its simplicity and readability.
-- It was developed by Guido Van Rossum.
-- It's widely used in web development, data analysis, automation, machine learning and more
+## 📅 Challenge Goals
 
-## 🎯Challenge
-Write a program that prints "Hello, World!" followed by your name
-![1] (https://drive.google.com/file/d/1bQWeHfGVdGJz4R38UDj4yU6uG89MMmCB/view?usp=drive_link)
+- Strengthen core Python programming concepts
+- Practice daily with consistency and curiosity
+- Build hands-on projects and solve real-world problems
+
+## 📂 Folder Structure
+
+- `Day1/` to `Day30/`: Daily Python practice and notes
+- `Projects/`: Mini-projects built during the challenge
+- `Resources.md`: Helpful links, articles, and references
+
+## 🚀 Let's Connect!
+Feel free to follow my progress, fork the repo, and share your own journey.  
+Connect with me on [LinkedIn](https://www.linkedin.com/in/sonaligupta13/) or check out my blog for insights!
